@@ -27,7 +27,7 @@ function App() {
   return (
     <div className="App">
       <header>
-        <h1>⚛️🔥💬</h1>
+        <h1>Internal Chat</h1>
         <SignOut />
       </header>
       <section>{user ? <ChatRoom /> : <SignIn />}</section>
@@ -88,7 +88,7 @@ function ChatRoom() {
           onChange={(e) => setFromValue(e.target.value)}
         />
 
-        <button type="submit">🕊️</button>
+        <button type="submit">Send</button>
       </form>
     </>
   );

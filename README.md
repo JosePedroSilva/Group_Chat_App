@@ -1,3 +1,9 @@
+# Global chat app with React, Firebase and Google Auth
+
+Based on [Fireship tutorial](https://www.youtube.com/watch?v=zQyrwxMPm88&t=307s).
+
+[Live Demo](https://jpchatapp.netlify.app/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
